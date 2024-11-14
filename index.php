@@ -1,5 +1,6 @@
 <?php
 $url = "https://github.com";
-header('Location: '.$url);
+echo $_GET['CARTEIRA']
+//header('Location: '.$url);
 die();
 ?>
