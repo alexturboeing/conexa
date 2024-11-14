@@ -1,5 +1,5 @@
 <?php
-$url = "https://g1.com.br";
+$url = "https://github.com";
 header('Location: '.$url);
 die();
 ?>
